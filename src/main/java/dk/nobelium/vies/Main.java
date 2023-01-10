@@ -7,11 +7,19 @@ import dk.nobelium.vies.models.ViesSimpleResponse;
 import java.util.Optional;
 
 public class Main {
-    private static final String bmwCountryCode = "DE";
-    private static final String mercedesCountryCode = "DE";
+//    private static final String bmwCountryCode = "DE";
+//    private static final String mercedesCountryCode = "DE";
+//
+//    private static final String bmwVatNumber = "129273398";
+//    private static final String mercedesVatNumber = "812526315";
 
-    private static final String bmwVatNumber = "129273398";
-    private static final String mercedesVatNumber = "812526315";
+    private static final String bmwCountryCode = "DK";
+    private static final String mercedesCountryCode = "PL";
+
+    private static final String bmwVatNumber = "36045841";
+    private static final String mercedesVatNumber = "7891575087";
+
+
 
     public static void main(String[] args) {
 
